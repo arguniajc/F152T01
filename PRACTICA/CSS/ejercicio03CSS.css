@@ -1,20 +1,24 @@
 
 header{
-    background-color: #f0f0f0;
+    background-color: #eb0909;
     padding: 20px;
     text-align: center;
 }
 main{
+    background-color: aqua;
     padding: 20px;
 }
 select{
+    background-color: blueviolet;
     width: 200px;
     padding: 10px;
     margin: 10px 0;
 }
 div{
+    background-color: green;
     margin: 10px 0;
 }
 h1 , h2{
+    background-color: gold;
     color: red;
 }
