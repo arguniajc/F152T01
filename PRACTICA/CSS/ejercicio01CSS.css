@@ -6,9 +6,10 @@ h1{
 
 }
 #uno{
-    color: red;
+    color: rgb(219, 219, 9);
     font-size: 15px;
     text-align: justify;
+    font-weight: 800;
 }
 #dos{
     color: blue;
@@ -16,7 +17,7 @@ h1{
     text-align: justify;
 }
 #tres{
-    color: green;
+    color: red;
     font-size: 15px;
     text-align: justify;
 }
