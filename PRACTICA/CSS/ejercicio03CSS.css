@@ -4,21 +4,16 @@ h1, h2 {
 
 header {
   background-color: magenta;
-  padding: 20px;
 }
 
 main {
   background-color: blue;
-  padding: 20px;
 }
 
 section {
   background-color: lightgreen;
-  padding: 15px;
-  margin-bottom: 10px;
 }
 
-section div {
+ div {
   background-color: gold;
-  padding: 10px;
 }
