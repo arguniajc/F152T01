@@ -1,24 +1,24 @@
+h1, h2 {
+  color: red;
+}
 
-header{
-    background-color: #eb0909;
-    padding: 20px;
-    text-align: center;
+header {
+  background-color: magenta;
+  padding: 20px;
 }
-main{
-    background-color: aqua;
-    padding: 20px;
+
+main {
+  background-color: blue;
+  padding: 20px;
 }
-select{
-    background-color: blueviolet;
-    width: 200px;
-    padding: 10px;
-    margin: 10px 0;
+
+section {
+  background-color: lightgreen;
+  padding: 15px;
+  margin-bottom: 10px;
 }
-div{
-    background-color: green;
-    margin: 10px 0;
-}
-h1 , h2{
-    background-color: gold;
-    color: red;
+
+section div {
+  background-color: gold;
+  padding: 10px;
 }
