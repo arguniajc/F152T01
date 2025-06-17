@@ -8,9 +8,16 @@ h1{
 
 table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: collapse; 
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: center;
+    background-color: #f2f2f2;              
 }
 td, th {
     border: 1px solid #ddd;
     padding: 8px;
+    text-align: center;
+    font-size: 16px;
+
 }
