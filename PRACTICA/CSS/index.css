@@ -38,6 +38,7 @@ body {
   padding: 20px;
   width: 160px;
   align-items: center;
+  cursor: pointer;
 }
 a {
   color: rgb(6, 6, 7);
